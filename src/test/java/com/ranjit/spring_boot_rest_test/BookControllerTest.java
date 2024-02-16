@@ -80,6 +80,12 @@ public class BookControllerTest {
                 .andExpect(jsonPath("$.name",is("Automobile")));
     }
 
+    //HomeWork
+    @Test
+    public void getBookByIdNotFoundTest()throws Exception{
+
+    }
+
     @Test
     public void createBookTest()throws  Exception{
         Book book= Book.builder()
@@ -139,6 +145,13 @@ public class BookControllerTest {
                 .delete("/delete")
                 .contentType(MediaType.APPLICATION_JSON))
                 .andExpect(status().isOk());
+    }
+
+    //HomeWork
+    @Test
+    public void deleteBookIdOntFoundTest()throws Exception{
+
+
     }
 
 }

@@ -11,3 +11,51 @@ os.arch=amd64
 os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 16 05:29:19 IST 2024:
+Shutting down instance a816c00e-018d-aef0-3256-0000014068a0 on database directory memory:E:\PROJECTS\IJ\spring_boot_rest_test\a96d0841-2d0f-4793-a0e3-2e9c1fcaaa40 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+----------------------------------------------------------------
+Fri Feb 16 05:29:22 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a4420111-018d-aef0-3256-0000014068a0 
+on database directory memory:E:\PROJECTS\IJ\spring_boot_rest_test\da913fcc-6525-445b-8959-646f9c026a52 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/rsuta/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.2+9-78
+user.dir=E:\PROJECTS\IJ\spring_boot_rest_test
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 16 08:18:57 IST 2024:
+Shutting down instance a4420111-018d-aef0-3256-0000014068a0 on database directory memory:E:\PROJECTS\IJ\spring_boot_rest_test\da913fcc-6525-445b-8959-646f9c026a52 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+----------------------------------------------------------------
+Fri Feb 16 08:19:00 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance e1ef8214-018d-aef0-3256-0000014068a0 
+on database directory memory:E:\PROJECTS\IJ\spring_boot_rest_test\94cf5d48-d585-4a24-ad38-c303e114f4a5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/rsuta/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.2+9-78
+user.dir=E:\PROJECTS\IJ\spring_boot_rest_test
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri Feb 16 08:19:04 IST 2024:
+Shutting down instance e1ef8214-018d-aef0-3256-0000014068a0 on database directory memory:E:\PROJECTS\IJ\spring_boot_rest_test\94cf5d48-d585-4a24-ad38-c303e114f4a5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+----------------------------------------------------------------
+Fri Feb 16 08:19:05 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance 111f4317-018d-aef0-3256-0000014068a0 
+on database directory memory:E:\PROJECTS\IJ\spring_boot_rest_test\f31f2214-9929-401d-982e-4fa17e5301fe with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/C:/Users/rsuta/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=20.0.2+9-78
+user.dir=E:\PROJECTS\IJ\spring_boot_rest_test
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
